@@ -1,6 +1,6 @@
 # AI-Powered DSA Instructor Using RAG System
 
-## 📌 Overview
+##  Overview
 
 The **AI-Powered DSA Instructor Using RAG System** is an intelligent learning assistant designed to help students understand **Data Structures and Algorithms (DSA)** through natural language interaction. It leverages **Retrieval-Augmented Generation (RAG)** and **Large Language Models (LLMs)** to provide accurate, context-aware, and detailed explanations based on a custom DSA knowledge base.
 
@@ -8,20 +8,20 @@ Instead of relying solely on the LLM's pre-trained knowledge, the system retriev
 
 ---
 
-## ✨ Features
+##  Features
 
-* 🤖 AI-powered DSA question answering
-* 📚 Retrieval-Augmented Generation (RAG)
-* 🔍 Semantic search using vector embeddings
-* 📄 Supports PDF-based DSA knowledge base
-* 💬 Context-aware responses
-* ⚡ Fast and accurate retrieval
-* 🔗 Powered by Google Gemini API
-* 📖 Easy-to-use command-line interface
+*  AI-powered DSA question answering
+*  Retrieval-Augmented Generation (RAG)
+*  Semantic search using vector embeddings
+*  Supports PDF-based DSA knowledge base
+*  Context-aware responses
+*  Fast and accurate retrieval
+*  Powered by Google Gemini API
+*  Easy-to-use command-line interface
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **JavaScript (Node.js)**
 * **LangChain**
@@ -34,7 +34,7 @@ Instead of relying solely on the LLM's pre-trained knowledge, the system retriev
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 AI-Powered-DSA-Instruction-Using-RAG-System/
@@ -50,7 +50,7 @@ AI-Powered-DSA-Instruction-Using-RAG-System/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### 1. Clone the repository
 
@@ -72,7 +72,7 @@ npm install
 
 ---
 
-## 🔑 Environment Variables
+##  Environment Variables
 
 Create a `.env` file in the project root and add:
 
@@ -84,7 +84,7 @@ PINECONE_INDEX_NAME=YOUR_INDEX_NAME
 
 ---
 
-## ▶️ Running the Project
+##  Running the Project
 
 ### Step 1: Upload the PDF to the vector database
 
@@ -107,7 +107,7 @@ What is Dynamic Programming?
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 1. Load the DSA PDF.
 2. Split the document into chunks.
@@ -119,7 +119,7 @@ What is Dynamic Programming?
 
 ---
 
-## 📈 Future Enhancements
+##  Future Enhancements
 
 * Web-based user interface
 * Chat history
@@ -131,7 +131,7 @@ What is Dynamic Programming?
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Ganesh Kurhe**
 
@@ -140,6 +140,6 @@ What is Dynamic Programming?
 
 ---
 
-## 📜 License
+##  License
 
 This project is developed for educational and learning purposes.
